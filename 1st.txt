@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 j;sdkjf;ldask
+=======
+Hello, World!:;sddddddddddljk
+>>>>>>> 0970c562a38cde42814929cd4a7d3964a319c41b
+
+git push check
